@@ -745,11 +745,8 @@ body {
     }
 }
 
-@media (max-width: 960) {
-    .header-block {
-        display: none;
-    }
-    .navigation-panel {
+@media (max-width: 960px) {
+    .navigation-user {
         display: none;
     }
 }
